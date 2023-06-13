@@ -98,7 +98,7 @@ p{color: #869093; font-size: 14px; line-height: 26px;  padding-bottom: 15px; mar
 	.site-name h1{background: #f85c5e; color: #fff; padding:20px ; border-radius: 5px; text-transform: uppercase;}
 	
 	.banner{text-align: center; margin-top: 55px;border-radius: 5px;
-			border: 20px solid #fff; border-bottom: none; margin-bottom: -4px;}
+			border: 20px solid #fff; border-bottom: none; margin-bottom: 40px;}
 	.banner .carousel{margin-bottom: 0;}
 	.banner .carousel-caption h1, h2{ opacity: 0;}
 	.banner .carousel-caption .btn{opacity: 0;}
